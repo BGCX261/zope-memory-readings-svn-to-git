@@ -1,0 +1,7 @@
+- 1.1
+
+  Fix to flotter.js
+  
+- 1.0
+  
+  Initial release.

@@ -1,0 +1,14 @@
+* Keep an eye on
+http://groups.google.com/group/flot-graphs/browse_thread/thread/10a7eee60fd25d32
+
+* Write a README
+
+* Consider an option where you don't save a reading unless the memory
+  changes.
+  
+* read and learn
+http://virtualthreads.blogspot.com/2006/02/understanding-memory-usage-on-linux.html
+and
+http://mail.nl.linux.org/linux-mm/2003-03/msg00077.html
+
+* write tests for get_readings.py

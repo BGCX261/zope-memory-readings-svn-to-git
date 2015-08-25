@@ -1,0 +1,14 @@
+body {
+  font-family: sans-serif;
+  font-size: 16px;
+}
+
+
+table thead tr th {
+  border:1px solid #ccc;
+}
+
+table tbody tr td {
+  font-size:10px;
+  border:1px solid #ccc;
+}
